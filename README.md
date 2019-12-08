@@ -4,21 +4,21 @@
 
 Each problem (from A to M) has their own folder. The folder name is the `slug` of the problem, which is the codename we used when we internally prepare the problems. The following table describes the slug for each problem
 
-| Problem Code | Problem Slug | Problem Title           |
-| ------------ | ------------ | ----------------------- |
-| A            | league       | Three Points for a Win  |
-| B            | door         | Door of the Ancients    |
-| C            | jump         | Jumping Stones          |
-| D            | lifestyle    | Healthy Lifestyle       |
-| E            | short        | Shortsighted            |
-| F            | game         | Presidential Game       |
-| G            | golf         | Goofy Golf              |
-| H            | apples       | Collecting Apples       |
-| I            | frequent     | Most Frequent Letter    |
-| J            | grid         | Connecting Line on Grid |
-| K            | matching     | GCD Matching            |
-| L            | blessings    | Sending Blessings       |
-| M            | goal         | Go To Goal              |
+| Problem Code | Problem Slug | Problem Title          |
+| ------------ | ------------ | ---------------------- |
+| A            | league       | Three Points for a Win |
+| B            | door         | Door of the Ancient    |
+| C            | jump         | Jumping Stones         |
+| D            | lifestyle    | Healthy Lifestyle      |
+| E            | short        | Shortsighted           |
+| F            | game         | Presidential Game      |
+| G            | golf         | Goofy Golf             |
+| H            | apples       | Collecting Apples      |
+| I            | frequent     | Frequent Alphabet      |
+| J            | grid         | Grid City              |
+| K            | matching     | Odd GCD Matching       |
+| L            | blessings    | Sending Blessings      |
+| M            | goal         | Go To Goal             |
 
 In the problem folder, there should be exactly the following file/folder:
 
