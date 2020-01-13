@@ -1,4 +1,4 @@
-# INC 2019 - Prolem Repository
+# INC 2019 - Problem Repository
 
 ## Repository Structure
 
